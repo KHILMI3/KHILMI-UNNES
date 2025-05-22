@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Search><pages Count="30"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[PETUNJUK PENGGUNAAN
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="32"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[PETUNJUK PENGGUNAAN
 
 
 
@@ -305,17 +304,15 @@
            Komponen APD:                                                   Ketuk nama APD untuk
 
 
+                    Pelindung kepala (Hard Hat)                                melihat gambar!!!
 
-                      Pelindung kepala (Hard Hat)                              melihat gambar!!!
+                    Pelindung mata (Safety Glasses)
 
-                      Pelindung mata (Safety Glasses)
+                    Pelindung tangan (Safety Gloves)
 
-                      Pelindung tangan (Safety Gloves)
+                    Pelindung kaki (Safety Shoes)
 
-
-                      Pelindung kaki (Safety Shoes)
-
-                      Peralatan pelindung (Coverall/Working Suit)
+                    Peralatan pelindung (Coverall/Working Suit)
 
 
            Setiap  praktikan  harus  menerapkan  prinsip-prinsip  umum
@@ -323,30 +320,32 @@
            yang menjamin K3 antara lain:
 
 
-                      Bekerja sesuai prosedur/SOP
+                    Bekerja sesuai prosedur/SOP
 
-                      Menggunakan alat yang sesuai dengan fungsinya
+                    Menggunakan alat yang sesuai dengan fungsinya
 
-                      Melakukan  perawatan  umum  meliputi  kebersihan
+                    Melakukan  perawatan  umum  meliputi  kebersihan  dan
+
+                    keindahan tempat kerja
+
+                     Setiap praktikan harus paham situasi bengkel
+
+                    dalam kaitanya tindakan penyelamatan jika
+
+                    terjadi kecelakaan
+
+                     Menyimpan bahan yang berbahaya di tempat
+
+                    khusus
+
+                    Mengadakan latihan kebakaran secara periodik
+
+                    Melakukan checking/pembersihan peralatan di
+
+                    bengkel
 
 
-                      dan keindahan tempat kerja
 
-                       Setiap praktikan harus paham situasi bengkel
-
-                      dalam kaitanya tindakan penyelamatan jika
-
-                      terjadi kecelakaan
-
-                       Menyimpan bahan yang berbahaya di tempat
-
-                      khusus
-
-                      Mengadakan latihan kebakaran secara periodik
-
-
-                      Melakukan checking/pembersihan peralatan di
-                      bengkel
 
 
 
@@ -439,17 +438,17 @@
 
                     Kopling adalah salah satu komponen pada mesin yang
 
-           berguna  untuk  meneruskan  tenaga  yang  dikeluarkan  dari
+           berguna  untuk  memutus  dan  menghubungkan  tenaga  yang
 
-           poros  yang  menggerakkan  (driving  shaft)  menuju  ke  poros
+           dikeluarkan  dari  poros  yang  menggerakkan  (driving  shaft)
 
-           yang  digerakkan  (driven  shaft),  sehingga  putaran  yang
+           menuju  ke  poros  yang  digerakkan  (driven  shaft),  sehingga
 
-           dihasilkan melalui putaran input akan selaras dengan putaran
+           putaran  yang  dihasilkan  melalui  putaran  input  akan  selaras
 
-           output-nya. Letak dari sistem kopling itu sendiri berada pada
+           dengan putaran output-nya. Sistem kopling berada pada ujung
 
-           ujung  depan  dari  serangkaian  sistem  pemindah  daya  pada
+           depan  dari  serangkaian  sistem  pemindah  daya  pada
 
            kendaraan.  Sesuai  dengan  kegunaannya,  sistem  kopling
 
@@ -467,24 +466,23 @@
 
                1)  Flywheel                                                     melihat gambar!!!
 
-                          Flywheel  (roda  penerus)  merupakan  komponen
+                          Flywheel (roda penerus) merupakan komponen yang
 
-                   mekanikal yang berguna dalam menyimpan energi putar.
+                   terpasang  pada  ujung  poros  engkol  (crankshaft)  mesin
 
-                   Bentuk  flywheel  menyerupai  cakram  yang  terhubung
+                   dan berada di sisi yang langsung berhubungan dengan
 
-                   dengan poros penggerak (crankshaft) di satu sisinya.
+                   kopling.  Flywheel  berfungsi  sebagai  media  penerus
+
+                   tenaga putar dari mesin ke sistem kopling.
 
                2)  Clutch disc (Pelat Kopling)
 
-                          Pelat  kopling  merupakan  komponen  yang
+                          Pelat kopling merupakan komponen yang berperan
 
-                   berperan  penting  dalam  meneruskan  daya  putar
+                   penting  dalam  meneruskan  daya  putar  mesin  yang
 
-                   mesin  yang  terhubung  dengan  flywheel  dan  pelat
-
-
-                   penekan  yang  diteruskan  menuju  input  shaft
+                   terhubung  dengan  flywheel  dan  pelat  penekan  yang
 
 
                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="10"><![CDATA[INFORMASI SINGKAT
@@ -494,62 +492,117 @@
 
 
 
-                   transmisi.  Komponen  ini  mengatur  pemindahan
+                   diteruskan  menuju  input  shaft  transmisi.  Komponen  ini
 
 
-                   tenaga  yang  dihasilkan  oleh  mesin  menuju  ke
-
-                   transmisi melalui proses gesekan.                               Ketuk nama komponen
-
-               3)  Pelat Penekan (Pressure Plate)                                 untuk melihat gambar!!!
+                   mengatur pemindahan tenaga yang dihasilkan oleh mesin
+                   menuju ke transmisi melalui proses gesekan.
 
 
-                          Plat penekan (pressure plate) Berfungsi untuk
+               3)  Pelat Penekan (Pressure Plate)
+                          Plat  penekan  (pressure  plate)  Berfungsi  untuk
 
-                   menekan  pelat  kopling  terhadap  flywheel  dengan
+                   menekan pelat kopling terhadap flywheel dengan adanya
 
-                   adanya tekanan pegas penekan. Salah satu sisi dari
+                   tekanan  pegas  penekan.  Salah  satu  sisi  dari  pelat
 
+                   penekan  dibuat  dengan  tekstur  halus  dan  rata,  karena
 
-                   pelat penekan dibuat dengan tekstur halus dan rata,
+                   bagian  tersebut  yang  akan  mencengkram  pelat  kopling
 
-                   karena  bagian  tersebut  yang  akan  mencengkram
-
-                   pelat kopling dengan kuat ke flywheel tanpa adanya
-
-
-                   slip.
+                   dengan kuat ke flywheel tanpa adanya slip.
 
                4)  Mekanisme Penggerak (Release Mechanism)
 
-                          Mekanisme  penggerak  merupakan  komponen
+                          Mekanisme penggerak merupakan komponen sistem
 
+                   kopling  yang  memungkinkan  pengemudi  untuk  dapat
 
-                   sistem  kopling  yang  memungkinkan  pengemudi
+                   memutuskan  aliran  daya  putar  dari  engine  saat
 
-                   untuk  dapat  memutuskan  aliran  daya  putar  dari
+                   dibutuhkan.  Prinsip  kerja  dari  komponen  ini  adalah
 
-                   engine  saat  dibutuhkan.  Prinsip  kerja  dari
+                   dengan  mengontrol  pelat  kopling  untuk  menjauh  dari
 
-                   komponen  ini  adalah  dengan  mengontrol  pelat
+                   Clutch Disc, sehingga hubungan antara mesin dan roda
 
+                   penggerak dapat terputus.                                       Ketuk nama komponen
 
-                   kopling untuk menjauh dari Clutch Disc, sehingga
-
-                   hubungan antara mesin dan roda penggerak dapat
-
-                   terputus.
-
-
-               5)  Pegas Diafragma (Diaphragm Spring)
+               5)  Pegas Diafragma (Diaphragm Spring)                              untuk melihat gambar!!!
 
                           Pegas  diafragma  merupakan  komponen  yang
 
-                   berfungsi  untuk  manarik  serta  menekan  pelat
+                   berfungsi  untuk  manarik  serta  menekan  pelat  penekan
+
+                   yang  terdapat  pada  clutch  cover.  Ketika  pengemudi
+
+                   menekan pedal kopling, pegas diafragma akan bereaksi
+
+                   dengan  menarik  pelat  penekan  agar  tidak  bersentuhan
+
+                   dengan pelat kopling dan putaran yang ada pada flywheel
 
 
-                          Ketuk
-                                   ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="11"><![CDATA[INFORMASI SINGKAT
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="11"><![CDATA[INFORMASI SINGKAT
+
+
+
+
+
+
+              dengan pelat kopling akan terbebas, begitu juga sebaliknya.
+
+           6) Bantalan Pembebas (Release Bearing)
+
+                    Release Bearing merupakan komponen yang terletak di
+
+              antara  release  fork  dan  clutch  cover,  berfungsi  untuk
+
+              meneruskan  gaya  dorong  dari  release  fork  ke  pegas
+
+              diafragma  pada  clutch  cover  saat  pedal  kopling  ditekan.
+
+              Komponen  ini  memastikan  tekanan  pada  sistem  kopling
+
+              terjadi secara merata dan mengurangi gesekan serta suara
+
+              saat mengoperasikan kopling.
+
+           7) Garpu Pembebas (Release fork)
+
+                    Release  fork  adalah  tuas  pengungkit  yang  berfungsi
+
+              untuk  menggerakkan  release  bearing  saat  pedal  kopling
+
+              ditekan,  dengan  cara  meneruskan  gaya  dari  sistem
+
+              penggerak  kopling  baik  hidrolik  maupun  mekanik.
+
+              Komponen  ini  bekerja  dengan  prinsip  pengungkit  dan
+
+              memungkinkan                  pengemudi               untuk         memutus              atau
+
+              menghubungkan tenaga dari mesin ke transmisi.
+
+           8) Bantalan Pilot (Pilot Bearing)
+
+                    Pilot bearing adalah bantalan kecil yang terletak di pusat
+
+              flywheel atau ujung poros engkol, berfungsi untuk menopang
+
+              dan  memusatkan  poros  input  transmisi  agar  tetap  sejajar
+
+              dengan poros engkol mesin.
+
+                                                                      Ketuk nama komponen
+                                                                     untuk melihat gambar!!!
+
+
+
+
+
+
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="12"><![CDATA[INFORMASI SINGKAT
 
 
 
@@ -557,43 +610,82 @@
 
 
 
-                   penekan  yang  terdapat  pada  clutch  cover.  Ketika
 
-                   pengemudi  menekan  pedal  kopling,  pegas  diafragma
-                   akan bereaksi dengan menarik pelat penekan agar tidak
+           9) Garpu Pemindah (Shift Fork)
+
+                    Shift fork adalah komponen dalam yang berfungsi untuk
+
+              menggeser               synchronizer              sleeve          sehingga             dapat
+
+              menghubungkan atau melepaskan gigi tertentu pada poros
+
+              transmisi.  Komponen  ini  digerakkan  oleh  tuas  persneling
+
+              melalui mekanisme shift linkage, memungkinkan pengemudi
+
+              untuk  memilih  gigi  yang  diinginkan  sesuai  dengan  kondisi
+
+              berkendara.
+
+           10) Tutup Kopling (Clutch Cover)
+                    Clutch  cover  merupakan  komponen  yang  terpasang
 
 
-                   bersentuhan dengan pelat kopling dan putaran yang ada
-                   pada flywheel dengan pelat kopling akan terbebas, begitu
+              dengan  flywheel,  sehingga  clutch  cover  dapat  berputar
+              secara bersamaan dengan flywheel beserta pelat kopling. Di
 
 
-                   juga sebaliknya.                                               Ketuk nama komponen
-               6)  Tutup Kopling (Clutch Cover)                                   untuk melihat gambar!!!
+              dalam  tutup  kopling  terdapat  pegas  diafragma,  tuas
+              penekan, tutup dan juga pressure plate yang nantinya akan
 
-                          Clutch cover merupakan komponen yang terpasang
+              bersinggungan langsung dengan pelat kopling.
 
-                   dengan  flywheel,  sehingga  clutch  cover  dapat  berputar
 
-                   secara bersamaan dengan flywheel beserta pelat kopling.
+         Ketuk nama komponen
 
-                   Di  dalam  tutup  kopling  terdapat  pegas  diafragma,  tuas
+         untuk melihat gambar!!!
 
-                   penekan,  tutup  dan  juga  pressure  plate  yang  nantinya
 
-                   akan bersinggungan langsung dengan pelat kopling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="13"><![CDATA[INFORMASI SINGKAT
+
+
+
+
+
 
            B. Overhaul
 
-                    Sebutan  overhaul  berasal  dari  Bahasa  Inggris  yang
 
+                    Sebutan  overhaul  berasal  dari  Bahasa  Inggris  yang
            memiliki makna inspeksi dengan sangat rinci. Dalam konteks
 
-           otomotif, overhaul yaitu melakukan pembongkaran terhadap
 
+           otomotif, overhaul yaitu melakukan pembongkaran terhadap
            komponen-komponen                       pada         suatu         sistem,         kemudian
 
-           memeriksanya  dengan  penuh  ketelitian  agar  nantinya
 
+           memeriksanya  dengan  penuh  ketelitian  agar  nantinya
            diperoleh  data-data  yang  valid.  Data  tersebut  nantinya
 
            digunakan sebagai dasar untuk menentukan langkah-langkah
@@ -607,27 +699,17 @@
            masalah  yang  terjadi  dan  melakukan  atas  masalah  yang
 
 
-
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="12"><![CDATA[INFORMASI SINGKAT
-
-
-
-
-
-
-
            didapatkan. Proses overhaul terdiri dari 3 tahapan, yaitu:
 
                a. Pembongkaran
-
                           Pembongkaran yaitu kegiatan yang dimulai dengan
 
-                   memisahkan atau melepas seluruh komponen unit yang
 
+                   memisahkan atau melepas seluruh komponen unit yang
                    akan dilakukan overhaul, sehingga memungkinkan untuk
 
-                   dilakukan  proses  pemeriksaan,  perbaikan  maupun
 
+                   dilakukan  proses  pemeriksaan,  perbaikan  maupun
                    penggantian  komponen  yang  mengalami  kerusakan
 
                    secara menyeluruh.
@@ -636,17 +718,26 @@
 
                           Pemeriksaan merupakan proses yang merujuk pada
 
-                   evaluasi  mendetail  terhadap  kondisi  komponen  yang
+                  evaluasi mendetail terhadap kondisi komponen yang telah
 
-                   telah  dibongkar  untuk  mengidentifikasi  keausan,
-                   kerusakan,  maupun  ketidaksesuaian  sehingga  tidak
+                  dibongkar  untuk  mengidentifikasi  keausan,  kerusakan,
 
-
-                   memenuhi  spesifikasi  standar.  Tahapan  ini  juga
-                   memastikan  setiap  komponen  dapat  bekerja  secara
+                  maupun  ketidaksesuaian  sehingga  tidak  memenuhi
 
 
-                   optimal dan
+
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="14"><![CDATA[INFORMASI SINGKAT
+
+
+
+
+
+
+
+                   spesifikasi standar. Tahapan ini juga memastikan setiap
+
+                   komponen dapat bekerja secara optimal dan
+
                    menentukan apakah komponen  tersebut dapat diperbaiki
 
                    atau harus diganti.
@@ -667,7 +758,48 @@
 
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="13"><![CDATA[PERSIAPAN SEBELUM PRAKTIK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="15"><![CDATA[PERSIAPAN SEBELUM PRAKTIK
 
 
 
@@ -728,7 +860,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="14"><![CDATA[PEMBONGKARAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="16"><![CDATA[PEMBONGKARAN
 
 
 
@@ -793,7 +925,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="15"><![CDATA[PEMERIKSAAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="17"><![CDATA[PEMERIKSAAN
 
 
 
@@ -841,7 +973,6 @@
 
 
 
-
            Link pengisian:
 
 
@@ -855,7 +986,8 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="16"><![CDATA[PEMERIKSAAN
+
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="18"><![CDATA[PEMERIKSAAN
 
 
 
@@ -916,7 +1048,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="17"><![CDATA[PEMERIKSAAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="19"><![CDATA[PEMERIKSAAN
 
 
 
@@ -979,7 +1111,7 @@
 
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="18"><![CDATA[PEMERIKSAAN
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="20"><![CDATA[PEMERIKSAAN
 
 
 
@@ -1041,7 +1173,7 @@
            Link pengisian:
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="19"><![CDATA[PEMERIKSAAN
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="21"><![CDATA[PEMERIKSAAN
 
 
 
@@ -1101,7 +1233,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="20"><![CDATA[PEMERIKSAAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="22"><![CDATA[PEMERIKSAAN
 
 
 
@@ -1177,7 +1309,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="21"><![CDATA[PEMASANGAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="23"><![CDATA[PEMASANGAN
 
 
 
@@ -1236,7 +1368,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="22"><![CDATA[PENGUJIAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="24"><![CDATA[PENGUJIAN
 
 
 
@@ -1303,7 +1435,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="23"><![CDATA[PENGUJIAN
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="25"><![CDATA[PENGUJIAN
 
 
 
@@ -1350,18 +1482,18 @@
 
             Link pengisian:
 
-               c) Nyalakan  mesin  dan  coba  masukkan  gigi  transmisi.
+               c)  Nyalakan  mesin  dan  coba  masukkan  gigi  transmisi.
 
-                   Pastikan  perpindahan  gigi  berjalan  lancar  tanpa  suara
+                    Pastikan  perpindahan  gigi  berjalan  lancar  tanpa  suara
 
-                   kasar.
+                    kasar.
 
-               d) Lakukan test drive ringan untuk memastikan tidak terjadi
+               d)  Lakukan test drive ringan untuk memastikan tidak terjadi
 
-                   selip, bunyi tidak normal, atau getaran.
+                    selip, bunyi tidak normal, atau getaran.
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="24"><![CDATA[AKHIR PRAKTIK
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="26"><![CDATA[AKHIR PRAKTIK
 
 
 
@@ -1432,7 +1564,7 @@
 
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="25"><![CDATA[LAPORAN PRAKTIK
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="27"><![CDATA[LAPORAN PRAKTIK
 
 
 
@@ -1499,7 +1631,7 @@
 
 
 
-                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="26"><![CDATA[GLOSARIUM
+                          Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="28"><![CDATA[GLOSARIUM
 
 
 
@@ -1560,7 +1692,7 @@
 
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="27"><![CDATA[DAFTAR PUSTAKA
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="29"><![CDATA[DAFTAR PUSTAKA
 
 
 
@@ -1616,7 +1748,7 @@
 
 
 
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="28"><![CDATA[TENTANG PENULIS
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="30"><![CDATA[TENTANG PENULIS
 
 
 
@@ -1700,4 +1832,4 @@
 
 
                            Ketuk ikon rumah untuk kembali ke menu Home!!!
-                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="29"><![CDATA[Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="30"><![CDATA[Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page></pages></Search>
+                           Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="31"><![CDATA[Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page><page Index="32"><![CDATA[Ketuk ikon rumah untuk kembali ke menu Home!!!]]></page></pages></Search>
